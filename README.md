@@ -205,10 +205,3 @@ graph TD
     E --> F
 ```
 
-## Best way I can help you study
-
-I can give you:
-
-* a **Mermaid beginner cheat sheet**
-* **10 practice exercises**
-* or help you **improve one Mermaid diagram you already wrote**.
